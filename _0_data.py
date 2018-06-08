@@ -6,7 +6,7 @@ class GUIData:
         self.v = self
         self.l = self
 
-        print("")
+        print("abc")
         self.v.version = StringVar(None, "rev0.170726")
         self.v.logfilename = StringVar()
         self.v.log_bool = BooleanVar(None, False)
